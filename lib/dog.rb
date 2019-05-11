@@ -1,4 +1,5 @@
 class Dog
+  # attributes here
 end
 
 fido = Dog.new()
