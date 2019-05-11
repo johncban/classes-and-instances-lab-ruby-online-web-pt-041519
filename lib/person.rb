@@ -2,5 +2,5 @@ class Person
   # attributes here
 end
 
-adele_goldberg = Person.name
-alan_kay = Person.name
+adele_goldberg = Person.new()
+alan_kay = Person.new()
